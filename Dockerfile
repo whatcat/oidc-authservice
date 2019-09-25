@@ -1,1 +1,1 @@
-FROM gcr.io/arrikto/kubeflow/oidc-authservice:v0.3
+FROM quay.io/coreos/dex:v2.10.0
